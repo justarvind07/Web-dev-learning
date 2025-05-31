@@ -1,0 +1,15 @@
+body{
+    background-color: blueviolet;
+}
+.red{
+    background-color: red;
+}
+#firstdiv{
+    background-color: aqua;
+    color: red;
+    -webkit-text-stroke-color: black;
+    
+}
+#seconddiv{
+
+}

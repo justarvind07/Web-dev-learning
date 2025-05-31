@@ -1,0 +1,29 @@
+day 5
+
+/* Decendent Selector this will select anywhere <p> inside of div */
+div p {
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+/* Pseudo Selector this is using on link */
+/* this visited link reflact after i visited any of the link as given it will show the text color in red after i visited on link  */
+a:visited{
+    color: rgb(158, 177, 55);
+}
+/* this link tag will show text of link before or a link where i never visited it show the color as given  */
+a:link{
+    color: red;
+}
+
+/* active will change or do anything while i click on that likn */
+a:active{
+    background-color: blueviolet;
+}
+
+
+/* This will show when i hover the mouse on that link */
+a:hover{
+    background-color: cadetblue;
+}
