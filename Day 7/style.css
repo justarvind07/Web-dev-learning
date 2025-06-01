@@ -1,0 +1,24 @@
+.font1{
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    
+    text-decoration: underline
+;
+}
+.font2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.para{
+  font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.6;
+}
+h2{
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: aqua;
+}
