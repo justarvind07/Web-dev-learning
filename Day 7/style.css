@@ -22,3 +22,11 @@ h2{
     text-decoration-style: dotted;
     text-decoration-color: aqua;
 }
+.lorem{
+    border: 2px;
+    width: 145px;
+    /* word-break: break-all; */
+    text-align: center;
+    /* text-overflow: ellipsis;
+    overflow: hidden; */
+}
