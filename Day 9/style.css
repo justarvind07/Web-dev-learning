@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+    font-size: 30px;
+    -webkit-text-stroke: 2px;
+    color: brown;
+}
+.perpule{
+    color: purple!important;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
