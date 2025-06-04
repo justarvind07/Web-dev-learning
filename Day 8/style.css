@@ -6,3 +6,14 @@
     text-decoration: underline;
     text-underline-offset: 10px;
 }
+/* this will seclect only 1st paragraph of div */
+div > p:nth-child(1){   
+    background-color: rebeccapurple;
+}
+div > p:nth-child(2){
+    text-transform: uppercase;
+    background-color: yellow;
+    text-shadow: 1px 1px rebeccapurple;
+    font-weight: 60;
+    color: red;
+}
