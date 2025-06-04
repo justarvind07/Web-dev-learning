@@ -1,0 +1,8 @@
+.ln{
+    text-transform: capitalize;
+    text-shadow: 2px 2px rebeccapurple;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}

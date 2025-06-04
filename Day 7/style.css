@@ -17,6 +17,7 @@
     line-height: 1.6;
 }
 h2{
+    text-align: center;
     text-transform: capitalize;
     text-decoration: underline;
     text-decoration-style: dotted;
