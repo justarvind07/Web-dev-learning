@@ -1,0 +1,18 @@
+nav ol li{
+    list-style: none;
+    /* list-style: devanagari; */
+    list-style-position: inside;
+    background-color: lightcoral;
+    border: 2px solid lightblue;
+    padding: 12px;
+    margin-left: 5px;
+    /* list-style-type: "👍"; */
+
+    
+}
+nav ol{
+    display: flex;
+}
+.box{
+    background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgb(114, 39, 39);
+}
