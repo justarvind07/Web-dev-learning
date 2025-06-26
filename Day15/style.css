@@ -1,0 +1,9 @@
+.box{
+    width: auto;
+    height: auto;
+    /* display: inline-block; */
+    border: 2px solid rebeccapurple;
+    overflow: auto;
+     /* white-space: nowrap; ye text ko niche nahi aane dega  */
+     
+}
